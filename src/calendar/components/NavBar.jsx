@@ -2,11 +2,11 @@ import React from 'react'
 
 export const NavBar = () => {
   return (
-    <div className='navbar navbar-dark bg-dark mb-4'>
+    <div className='navbar navbar-dark bg-dark mb-4 px-3'>
         <span className='navbar-brand'>
             <i className='fas fa-calendar-alt'></i>
             &nbsp;
-            Fernando
+            Miguel
         </span>
 
         <button className='btn btn-outline-danger'>
